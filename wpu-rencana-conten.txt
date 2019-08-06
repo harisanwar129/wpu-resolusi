@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 \
 -javascript
+*es6
+*framewrodk
 -php framework
 -intervie
 -vlog
